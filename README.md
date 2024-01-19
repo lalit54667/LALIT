@@ -1,3 +1,4 @@
+![logo](https://github.com/lalit54667/LALIT/blob/main/untitled466.jpeg.png)
 <h1 align="center">Hi 👋, I'm Lalit Kumar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
